@@ -26,10 +26,7 @@ Experiments 9 and 10 form a supplementary mini-project: classifying incoming Eng
 ```text
 .
 ├── Experiment-1/ … Experiment-10/   # Notebooks, data, results, and reports
-├── report.tex                        # Consolidated LaTeX report source
-├── report.pdf                        # Generated consolidated report (if present locally)
-├── report_assets/                    # Figures used by the consolidated report
-└── latex-assets/                     # LaTeX sections and report-generation helpers
+├── report.pdf                        # Generated consolidated report
 ```
 
 Notable supporting files include:
